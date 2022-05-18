@@ -33,8 +33,8 @@ version used - "react-router-dom": "^5.2.0",
 
 - [react-router-dom - Main Docs](https://reactrouter.com/web/guides/quick-start)
 
-- <Switch> renders the first child <Route> that matches
-- A <Route path="*"> always matches
+- "Switch" renders the first child "Route" that matches
+- A " Route path="*" " always matches
 
 ## Github API
 
